@@ -1,0 +1,13 @@
+certifi==2025.7.9
+charset-normalizer==3.4.2
+dotenv==0.9.9
+gevent==25.5.1
+greenlet==3.2.3
+idna==3.10
+python-dotenv==1.1.1
+requests==2.32.4
+setuptools==80.9.0
+urllib3==2.5.0
+websocket-client==1.8.0
+zope.event==5.1
+zope.interface==7.2
